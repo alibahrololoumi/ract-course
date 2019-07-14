@@ -1,2 +1,2 @@
 # react-course
-saaalaaaam scan
+Thug life!
