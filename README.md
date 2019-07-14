@@ -1,2 +1,2 @@
-# ract-course
+# react-course
 ;)
